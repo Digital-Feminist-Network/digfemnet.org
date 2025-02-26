@@ -1,0 +1,12 @@
+---
+layout: post
+title: About
+image: assets/images/1.png
+nav-menu: true
+---
+
+The Digital Feminist Network brings together feminist and queer scholars in Canada to provide a strong public facing network of experts that mobilize our expertise and shared resources in order to counter the ongoing threats posed by technology-facilitated gender-based violence practices circulating between online spaces and our university campuses. As growing [evidence](https://www.leaf.ca/publication/deplatforming-misogyny/) makes clear, there are [direct connections between online hate and acts of physical violence](https://phys.org/news/2019-10-online-speech-crimes-minorities.html) against marginalized communities, amplified by hate-fuelled disinformation campaigns from organized far right groups online.  Racialized, gendered, and queer communities are [predominantly targeted](https://counterhate.com/our-work/) by TFGBV, which as an umbrella term includes online intimidation, hate speech, rape threats, death threats, and public doxxing campaigns.
+
+The DigFemNet network presently includes four Ontario-based partner universities including the University of Waterloo, the University of Ottawa, York University and McMaster University. Through a series of practice-based research initiatives the network aims to jointly develop publicly accessible information around the relationship between technology-facilitated gender-based violence, or TFGBV, and its manifestations on our campuses, as well as how to counter it with actionable outcomes. The group’s combined expertise in practice-based research-creation methods, digital cultures and technologies and our shared scholarly commitment to intersectional forms of gender equity will help us collectively undertake this timely and necessary work. This nascent network offers a small-scale model that we hope to scale up to a national and then international network in the next decade.
+
+This multi-year project aims to study how gender-based hate operates online and in learning spaces by collecting oral and visual histories of women, non-binary, and femme presenting scholars and students surrounding their experiences of studying and speaking on feminist issues in public space. A variety of participant engagement activities will invite interested academics and activities in our campus communities to share through story, sound walks, and zine making. The information collected will be shared in a digital exhibition in 2025.
