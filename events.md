@@ -6,6 +6,18 @@ image: assets/images/7.png
 nav-menu: true
 ---
 
+## Spring 2025
+
+### DigFemNet Summit 2025
+
+* April 14-16, 2025
+* To register for public events, please RSVP [here](https://forms.gle/ymjhhQ4VRVLxeojTA) 
+* Host: Waterloo
+* Program:
+  * [Day 1](https://www.feminist-think-tank.com/digfemnet-summit-day-1)
+  * [Day 2](https://www.feminist-think-tank.com/digfemnet-summit-day-2)
+  * [Day 3](https://www.feminist-think-tank.com/digfemnet-summit-day-1)
+
 ## Winter 2025
 
 ### Feminist Data Training Series
